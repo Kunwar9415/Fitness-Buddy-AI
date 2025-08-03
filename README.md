@@ -1,10 +1,9 @@
-# Fitness Buddy – AI Fitness Companion
+# Fitness Buddy AI – My Personalized IBM Cloud Project
 
-![FitnessBud](https://github.com/user-attachments/assets/944d2d6c-98dd-46e2-b7fc-7e754643e327)
 
 
 # Overview
-Fitness Buddy is an AI-powered chatbot agent designed to help users stay motivated, discover personalised workouts, receive healthy meal ideas, and get fitness tips in real time—all for free—deployable on IBM Cloud Lite using watsonx.ai Prompt Lab and foundation models.
+Fitness Buddy is an AI-powered chatbot agent designed by **Kunwar Kantikeya Gautam**, a B.Tech student, as part of an internship project. It helps users stay motivated...
 
 # Features
 . Conversational AI—Friendly chat-based Q&A for fitness, meals, and motivation.
@@ -111,3 +110,13 @@ Expect tracking or memory of past chats (unless extended for that).
 
 # Acknowledgements
 Created as part of IBM SkillsBuild Academic Hackathon. Powered by IBM Cloud Watsonx AI Studio & Prompt Lab.
+
+
+---
+
+## 👨‍💻 Made By
+
+**Kunwar Kantikeya Gautam**  
+B.Tech Student, SMIT   
+Date: August 2025  
+
